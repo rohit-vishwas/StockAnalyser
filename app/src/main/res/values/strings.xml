@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StockAnalyser</string>
+    <string name="watchlist_title">Watchlist</string>
+    <string name="status_connecting">Connecting</string>
+    <string name="status_live">Live</string>
+    <string name="status_reconnecting">Reconnecting</string>
+</resources>
